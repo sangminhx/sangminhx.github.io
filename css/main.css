@@ -1,13 +1,22 @@
 body {
+	background-image: url('../img/background.png');
+	background-size: 100%;
+	background-repeat: no-repeat;
 	margin: 0;
 }
 
 img {
 	width: 100%;
+	position: absolute
+	left:	0;
+	top: 0;
 	z-index: -1;
 }
 
 iframe {
 	left: 34.84%;
-	top: 14.45%;
+	top: 44.45%;
+	height: 20.33%;
+	width: 30.41%;
+	position: absolute;
 }
