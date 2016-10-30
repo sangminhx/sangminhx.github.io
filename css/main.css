@@ -1,7 +1,4 @@
 body {
-	background-image: url('../img/background.png');
-	background-size: 100%;
-	background-repeat: no-repeat;
 	margin: 0;
 }
 
@@ -13,10 +10,37 @@ img {
 	z-index: -1;
 }
 
-iframe {
-	left: 34.84%;
-	top: 44.45%;
-	height: 20.33%;
-	width: 30.41%;
+div {
+	height: 11057px;
+	width: 1366px;
+}
+
+#g1 {
+	left: 461px;
+	top: 1477px;
+	position: absolute;
+}
+
+#v1 {
+	left: 476.3px;
+	top: 1597.25px;
+	width: 415.5px;
+	height: 224.881px;
+	position: absolute;
+}
+
+#v2 {
+	left: 476.3px;
+	top: 2539.79px;
+	width: 415.5px;
+	height: 224.881px;
+	position: absolute;
+}
+
+#v3 {
+	left: 476.3px;
+	top: 4093.55px;
+	width: 415.5px;
+	height: 224.881px;
 	position: absolute;
 }
