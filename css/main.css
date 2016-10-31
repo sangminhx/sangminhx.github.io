@@ -1,47 +1,49 @@
 body {
-	background-color: black;
 	margin: 0;
 }
 
 img {
 	width: 100%;
+	position: absolute
+	left:	0;
+	top: 0;
 	z-index: -1;
 }
 
 div {
-	height: 15542px;
-	width: 1920px;
+	height: 11057px;
+	width: 1366px;
 }
 
 #g1 {
-	left: 652px;
-	top: 2080px;
-	width: 100px;
-	height: 110px;
+	left: 465px;
+	top: 1482px;
+	width: 69px;
+	height: 68px;
 	z-index: 1;
 	position: absolute;
 }
 
 #v1 {
-	left: 669px;
-	top: 2246px;
-	width: 585px;
-	height: 314px;
+	left: 476.3px;
+	top: 1597.25px;
+	width: 415.5px;
+	height: 224.881px;
 	position: absolute;
 }
 
 #v2 {
-	left: 669px;
-	top: 3570px;
-	width: 584px;
-	height: 314px;
+	left: 476.3px;
+	top: 2539.79px;
+	width: 415.5px;
+	height: 224.881px;
 	position: absolute;
 }
 
 #v3 {
-	left: 669px;
-	top: 5753px;
-	width: 584px;
-	height: 314px;
+	left: 476.3px;
+	top: 4093.55px;
+	width: 415.5px;
+	height: 224.881px;
 	position: absolute;
 }
